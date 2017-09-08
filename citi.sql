@@ -19996,7 +19996,11 @@ delete from ct_credit_card_transaction_audit where cct_key in
 11352741,
 9849796,
 9657259,
-8233859,
+8233859
+)
+
+delete from ct_credit_card_transaction_audit where cct_key in 
+(
 8523041,
 6549108,
 12106110,
@@ -40784,7 +40788,11 @@ delete from ct_credit_card_transaction_audit where cct_key in
 8780213,
 7470415,
 10631335,
-7470618,
+7470618)
+
+
+delete from ct_credit_card_transaction_audit where cct_key in 
+(
 9657277,
 11025426,
 8557706,
@@ -59988,7 +59996,12 @@ delete from ct_credit_card_transaction_audit where cct_key in
 8802329,
 7584450,
 7721802,
-7327296,
+7327296
+)
+
+
+delete from ct_credit_card_transaction_audit where cct_key in 
+(
 12625114,
 10204773,
 9425628,
@@ -99983,7 +99996,11 @@ delete from ct_credit_card_transaction where cct_key in
 10595651,
 10852270,
 8020878,
-11675846,
+11675846
+)
+
+delete from ct_credit_card_transaction where cct_key in 
+(
 11432154,
 8587466,
 10483025,
@@ -119979,7 +119996,10 @@ delete from ct_credit_card_transaction where cct_key in
 6953582,
 7743238,
 4056285,
-4416104,
+4416104)
+
+delete from ct_credit_card_transaction where cct_key in 
+(
 11646687,
 11399394,
 12807735,
@@ -139977,7 +139997,11 @@ delete from ct_credit_card_transaction where cct_key in
 6012800,
 10852271,
 6819611,
-12699652,
+12699652
+)
+
+delete from ct_credit_card_transaction where cct_key in 
+(
 12358791,
 6372101,
 10372647,
@@ -159973,7 +159997,11 @@ delete from ct_credit_card_transaction where cct_key in
 6144880,
 8310474,
 6794817,
-10507910,
+10507910
+)
+
+delete from ct_credit_card_transaction where cct_key in 
+(
 4040036,
 11781335,
 9092891,
